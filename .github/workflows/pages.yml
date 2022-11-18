@@ -25,7 +25,7 @@ jobs:
         run: |
           python --version
           pip install -r requirements.txt
-          poetry run sphinx-build -d build/doctrees source build/html
+          sphinx-build -d build/doctrees source build/html
           mv build/html public/
           touch public/.nojekyll
 
