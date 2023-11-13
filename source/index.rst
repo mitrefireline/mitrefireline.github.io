@@ -31,3 +31,4 @@ Repositories
    :hidden:
 
    CHML <https://www.vmnh.net/research-collections/chml>
+   Pyregence <https://pyregence.org>
